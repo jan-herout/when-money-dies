@@ -1,6 +1,7 @@
 ## When Money Dies: The Nightmare of the Weimar Collapse
 
-https://mises.org/library/when-money-dies
+- https://mises.org/library/when-money-dies
+- http://thirdparadigm.org/doc/45060880-When-Money-Dies.pdf
 
 ```
 by ADAM FERGUSSON
